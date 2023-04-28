@@ -21,6 +21,7 @@ INLINE_TAGS = {
     # Italic style
     "i": "ITALIC",
     "em": "ITALIC",
+    "u": "UNDERLINE",
 }
 
 # All the supported block tag
